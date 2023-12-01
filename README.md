@@ -103,13 +103,11 @@ else:
 ![image](https://github.com/Thilak45/Search-Algorithm/assets/138849161/c48ccfe5-81a5-4b70-9d6f-04233f75f209)
 ![image](https://github.com/Thilak45/Search-Algorithm/assets/138849161/269edc64-94a3-4019-844b-6fe6606a154d)
 ![image](https://github.com/Thilak45/Search-Algorithm/assets/138849161/05251f6f-d75b-4321-9a13-f688cef8b575)
+
 ## OUTPUT:
-![image](https://github.com/Thilak45/Search-Algorithm/assets/138849161/ac11d2e2-addb-47f5-a134-151f78e63a91)
-![image](https://github.com/Thilak45/Search-Algorithm/assets/138849161/7e60deca-0f37-49b2-8c85-355bc6896ffe)
-![image](https://github.com/Thilak45/Search-Algorithm/assets/138849161/78bf65aa-7190-4723-92e3-085b295960a3)
-
-
-
+![image](https://github.com/Thilak45/Search-Algorithm/assets/138849161/498b89ec-cc4e-48ec-8d02-c59381338eaf)
+![image](https://github.com/Thilak45/Search-Algorithm/assets/138849161/0e8333ce-933c-4c1a-be89-3e3c3a931588)
+![image](https://github.com/Thilak45/Search-Algorithm/assets/138849161/58b1956f-4d11-4d85-8565-f394069c35fd)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
